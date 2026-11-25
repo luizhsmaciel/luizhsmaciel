@@ -23,7 +23,7 @@ Data & Analytics       -> SQL, MySQL, Power BI
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/luizhsmaciel/open-sea">🐟 ft_transcendence (Open Sea)</a> <em>(in progress)</em></h3>
+      <h3><a href="https://github.com/luizhsmaciel/open-sea">🐟 ft_transcendence (Open Sea)</a></h3>
       <p><code>TypeScript</code> · <code>Node.js</code> · <code>Socket.IO</code> · <code>React</code> · <code>Vitest</code></p>
       <p>Real-time multiplayer web game for 2 to 4 players. As Tech Lead of a team of four, I designed the architecture and built the game engine (all game logic runs on the server), the real-time layer with Socket.IO, the HTML5 Canvas renderer with keyboard and touch controls, and more than 150 automated tests.</p>
     </td>
