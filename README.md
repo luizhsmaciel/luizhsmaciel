@@ -23,7 +23,7 @@ I'm also a certified **Cybersecurity Specialist Technician** (IEFP, level 5), wi
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💬 ft_irc</h3>
+      <h3><a href="https://github.com/luizhsmaciel/ft_irc">💬 ft_irc</h3>
       <p><code>C++</code> · <code>Sockets</code> · <code>RFC 1459</code></p>
       <p>IRC server with non-blocking I/O and a single poll() loop serving many clients at once: registration, nicknames, channels, private messages, operators and channel modes.</p>
     </td>
