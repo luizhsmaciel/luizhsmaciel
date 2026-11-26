@@ -1,20 +1,8 @@
 ### Hi, I'm Luiz Maciel 👋
 
-I'm a software developer at **42 Lisboa**, with a solid low-level foundation in **C and C++** and full-stack experience in **TypeScript**. I've built an IRC server, a Unix shell and a raycasting 3D engine from scratch, a containerized web infrastructure with **Docker**, and I'm currently the **Tech Lead** of a team of four building **ft_transcendence**, a real-time multiplayer web game.
+I'm a software developer with a strong low-level background in C and C++ and full-stack experience in TypeScript. At 42 Lisboa I built an IRC server, a Unix shell, a raycasting 3D engine and a containerized web infrastructure with Docker, and I was the Tech Lead of a team of four on ft_transcendence, a real-time multiplayer web game.
 
 I'm also a certified **Cybersecurity Specialist Technician** (IEFP, level 5), with a 560-hour internship as the sole IT resource of a company.
-
----
-
-### ⚙️ What I Do
-
-```
-Systems Programming    -> C/C++, sockets, processes, memory management
-Full-Stack Development -> TypeScript, Node.js, Socket.IO, React, real-time multiplayer
-DevOps                 -> Docker, Docker Compose, NGINX, TLS
-Security & Networks    -> Vulnerability assessment, log analysis, TCP/IP, firewalls
-Data & Analytics       -> SQL, MySQL, Power BI
-```
 
 ---
 
@@ -37,12 +25,12 @@ Data & Analytics       -> SQL, MySQL, Power BI
     <td width="50%" valign="top">
       <h3>💬 ft_irc</h3>
       <p><code>C++</code> · <code>Sockets</code> · <code>RFC 1459</code></p>
-      <p>IRC server with non-blocking I/O and a single event loop serving many clients at once: registration, nicknames, channels, private messages, operators and channel modes.</p>
+      <p>IRC server with non-blocking I/O and a single poll() loop serving many clients at once: registration, nicknames, channels, private messages, operators and channel modes.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 webserv</h3>
-      <p><code>C++</code> · <code>HTTP/1.1</code> · <code>Sockets</code></p>
-      <p>HTTP/1.1 server built from scratch, handling concurrent connections, request parsing and a configuration file.</p>
+      <h3><a href="https://github.com/luizhsmaciel/philosophers">🍝 philosophers</a></h3>
+      <p><code>C</code> · <code>Threads</code> · <code>Mutexes</code></p>
+      <p>The dining philosophers problem with POSIX threads and mutexes, avoiding deadlocks and data races.</p>
     </td>
   </tr>
   <tr>
@@ -59,7 +47,7 @@ Data & Analytics       -> SQL, MySQL, Power BI
   </tr>
 </table>
 
-**Other 42 projects:** [push_swap](https://github.com/luizhsmaciel/push_swap) · [philosophers](https://github.com/luizhsmaciel/philosophers) · [pipex](https://github.com/luizhsmaciel/pipex) · [so_long](https://github.com/luizhsmaciel/so_long) · [CPP modules](https://github.com/luizhsmaciel/CPP) · [libft](https://github.com/luizhsmaciel/libft) · [ft_printf](https://github.com/luizhsmaciel/ft_printf) · [get_next_line](https://github.com/luizhsmaciel/get_next_line)
+**Other 42 projects:** [push_swap](https://github.com/luizhsmaciel/push_swap) · [pipex](https://github.com/luizhsmaciel/pipex) · [so_long](https://github.com/luizhsmaciel/so_long) · [CPP modules](https://github.com/luizhsmaciel/CPP) · [libft](https://github.com/luizhsmaciel/libft) · [ft_printf](https://github.com/luizhsmaciel/ft_printf) · [get_next_line](https://github.com/luizhsmaciel/get_next_line)
 
 ---
 
@@ -78,7 +66,7 @@ Data & Analytics       -> SQL, MySQL, Power BI
 
 | | |
 |---|---|
-| **IT and Cybersecurity Intern — Way4home** (May – Sep 2026) | Automated the working-hours control with Google Apps Script, deployed the network of a 20-room accommodation building, proposed on-premises vs. cloud infrastructure and provided daily IT support |
+| **IT and Cybersecurity Intern - Way4home** (May - Sep 2026) | Automated the working-hours control with Google Apps Script, deployed the network of a 20-room accommodation building, proposed on-premises vs. cloud infrastructure and provided daily IT support |
 
 ---
 
@@ -86,10 +74,10 @@ Data & Analytics       -> SQL, MySQL, Power BI
 
 | | |
 |---|---|
-| **Common Core — 42 Lisboa** (2024 – Present) | Peer-to-peer learning, systems programming, networking, algorithms. Projects: ft_transcendence, Inception, ft_irc, minishell, cub3D |
-| **Cybersecurity Specialist Technician, level 5 — IEFP** (2025 – 2026) | Vulnerability assessment, log analysis, TCP/IP networks, firewalls, Windows Server & Active Directory |
-| **Data Analytics — IEFP** (2025) | Python, SQL, MySQL, Power BI, exploratory data analysis |
-| **Networking & Hardware — CEDESP** (2016 – 2017) | Network administration, Windows & Linux servers |
+| **Common Core - 42 Lisboa** (2024 - 2026) | Peer-to-peer learning, systems programming, networking, algorithms. Projects: ft_transcendence, Inception, ft_irc, minishell, cub3D |
+| **Cybersecurity Specialist Technician, level 5 - IEFP** (2025 - 2026) | Vulnerability assessment, log analysis, TCP/IP networks, firewalls, Windows Server & Active Directory |
+| **Data Analytics - IEFP** (2025) | Python, SQL, MySQL, Power BI, exploratory data analysis |
+| **Networking & Hardware - CEDESP** (2016 - 2017) | Network administration, Windows & Linux servers |
 
 ---
 
